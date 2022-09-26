@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Mrs",
+    "first": "Ambre",
+    "last": "Morin"
+  },
+  "location": {
+    "street": {
+      "number": 8684,
+      "name": "Rue des Jardins"
+    },
+    "city": "Avignon",
+    "state": "Corse-du-Sud",
+    "country": "France",
+    "postcode": 55244,
+    "coordinates": {
+      "latitude": "-17.3060",
+      "longitude": "17.9663"
+    },
+    "timezone": {
+      "offset": "-5:00",
+      "description": "Eastern Time (US & Canada), Bogota, Lima"
+    }
+  },
+  "email": "ambre.morin@example.com",
+  "login": {
+    "uuid": "1b84db13-8861-460a-a724-6e49cb320f3d",
+    "username": "browngoose925",
+    "password": "br549",
+    "salt": "HyhydMiC",
+    "md5": "bf8a09df08d8eea9f0c99a35b4bfdd8a",
+    "sha1": "b3ba7c1bb320873eb5b3a481e482f03916249021",
+    "sha256": "e8cdf2c7967509d2b9d127dd14a0164cfacb247ba22803fab45658f309cb329f"
+  },
+  "dob": {
+    "date": "1961-06-28T08:34:14.828Z",
+    "age": 61
+  },
+  "registered": {
+    "date": "2014-06-16T04:59:19.601Z",
+    "age": 8
+  },
+  "phone": "04-21-09-28-48",
+  "cell": "06-57-49-44-72",
+  "id": {
+    "name": "INSEE",
+    "value": "2610584670451 71"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/73.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/73.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/73.jpg"
+  },
+  "nat": "FR"
+}
